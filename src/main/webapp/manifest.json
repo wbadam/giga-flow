@@ -1,0 +1,12 @@
+{
+  "short_name": "Vaadin Flow PWA Example",
+  "name": "Vaadin Flow PWA",
+  "icons": [
+    {
+      "src": "frontend/src/images/icons/web_hi_res_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/"
+}
