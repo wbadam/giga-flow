@@ -1,4 +1,4 @@
-package hu.ulyssys;
+package hu.ulyssys.giga;
 
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.dependency.HtmlImport;
