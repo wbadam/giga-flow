@@ -1,6 +1,6 @@
 {
-  "short_name": "Vaadin Flow PWA Example",
-  "name": "Vaadin Flow PWA",
+  "short_name": "GTL",
+  "name": "Giga Túra Liga",
   "icons": [
     {
       "src": "frontend/src/images/icons/web_hi_res_512.png",

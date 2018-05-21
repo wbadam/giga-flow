@@ -1,4 +1,4 @@
-package hu.ulyssys.giga;
+package hu.ulyssys.giga.init;
 
 import org.jsoup.nodes.Element;
 

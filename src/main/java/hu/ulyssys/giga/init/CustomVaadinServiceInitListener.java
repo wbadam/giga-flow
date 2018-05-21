@@ -1,4 +1,4 @@
-package hu.ulyssys.giga;
+package hu.ulyssys.giga.init;
 
 import com.vaadin.flow.server.ServiceInitEvent;
 import com.vaadin.flow.server.VaadinServiceInitListener;
