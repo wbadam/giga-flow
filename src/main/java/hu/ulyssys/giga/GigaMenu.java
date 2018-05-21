@@ -8,7 +8,7 @@ import com.vaadin.flow.component.html.UnorderedList;
 public class GigaMenu extends Nav {
 
     public GigaMenu() {
-        ListItem home = new ListItem(new Anchor("", "Home"));
+        ListItem home = new ListItem(new Anchor("", getTranslation("navigation.home")));
         ListItem results = new ListItem(new Anchor("results", "Results"));
         ListItem races = new ListItem(new Anchor("races", "Races"));
         ListItem login = new ListItem(new Anchor("login", "Login"));
